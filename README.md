@@ -1,4 +1,4 @@
-The PS1 files included on this repo are to be used in a Virtual Machine only.
+The PS1 files included on this repo are to be used in a Virtual Machine only, specifically Virtual Box.
 
 SandboxSetup.ps1:
 An internet connection is required to perform the installation of SandboxSetup.ps1. 
