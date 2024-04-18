@@ -253,7 +253,6 @@ function ModifyHypervisorMAC {
 }
 
 # All functions are called
-ModifyHypervisorMAC
 HideVirtualBoxFiles
 ModifyDrivers
 DeleteRegistry
@@ -263,5 +262,6 @@ CreateRandomImage
 AudioAndVideo
 ModifySystemDevices
 AddApplicationsToAutorun
+ModifyHypervisorMAC
 
 Write-Output "All software is installed and all modifications are complete. The Sandbox setup has completed."
